@@ -1,0 +1,28 @@
+{
+  "disciplina": "Sistema Web PetShop RoyalPet",
+  "projeto": "Fase 1 - Fundamentos de Sistemas Web",
+  "autora": "Luana de Lima Kanitz",
+  "ano": 2025,
+
+  "descricao_geral": "O site RoyalPet foi desenvolvido como parte da Fase 1 da disciplina Fundamentos de Sistemas Web. Ele tem como objetivo apresentar produtos e serviços de um petshop fictício, permitindo ao usuário visualizar informações e valores de forma simples e organizada.",
+  
+  "funcionalidades": {
+    "pagina_inicial": "Apresenta um resumo do petshop, com produtos e serviços principais.",
+    "menu_navegacao": "Presente em todas as páginas, permite acesso fácil entre as seções do site.",
+    "produtos": "Exibe três categorias de produtos — acessórios, rações e higiene — com duas opções em cada (imagem, descrição e valor).",
+    "servicos": "Lista os serviços de banho e tosa, com e sem tele-busca, incluindo descrição e valor.",
+    "contato": "Exibe informações para comunicação com o petshop (telefone, e-mail e horário de atendimento).",
+    "rodape": "Contém informações legais e autoria."
+  },
+
+  "requisitos_tecnicos": {
+    "linguagem": "HTML5, sem CSS ou JavaScript.",
+    "publicacao": "O site foi publicado através do GitHub Pages.",
+    "repositorio": "Os códigos-fonte estão disponíveis em repositório público no GitHub."
+  },
+
+  "links": {
+    "github": "MEU PERFIL",
+    "github_pages": "SITE PAGES"
+  }
+}
