@@ -43,7 +43,6 @@ Desenvolver um sistema web simples e funcional para o petshop fictício *RoyalPe
 **Metas:**  
 - Estruturar páginas HTML com cabeçalho, corpo e rodapé conforme boas práticas.  
 - Exibir três categorias de produtos com imagens, descrições e valores.  
-- Apresentar serviços (banho e tosa com e sem tele-busca) com descrições e preços.  
-- Publicar o site na web via GitHub Pages.  
+- Apresentar serviços (banho e tosa com e sem tele-busca) com descrições e preços.   
 
 ---
